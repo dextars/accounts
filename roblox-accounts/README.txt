@@ -2,9 +2,11 @@
 
 2.if you would like to continue press "y"
 
-3.type the account you are looking for
+3.enter the cookie you got
 
 4.you will receive the pasword and user
 
-5.enjoy your new account
+.5if this does not work then the user has updated there acccount
+
+
 
